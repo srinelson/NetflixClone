@@ -9,7 +9,9 @@
 - Grid layout to showcase a selection of movies and TV shows.
 - Hover effects for a more interactive experience.
 
-##Screenshot
+![Netflix Clone Screenshot 1](https://github.com/srinelson/NetflixClone/blob/master/images/Screenshot%201.jpg)
+![Netflix Clone Screenshot 2](https://github.com/srinelson/NetflixClone/blob/master/images/Screenshot%202.jpg)
+![Netflix Clone Screenshot 3](https://github.com/srinelson/NetflixClone/blob/master/images/Screenshot%203.jpg)
 
 
 ## License
